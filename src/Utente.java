@@ -8,6 +8,14 @@ public class Utente {
     private float peso;
 
 
+    // constants declaration
+    private static final int MAGRO = 18;
+    private static final int SAUDAVEL = 25;
+
+    private static int numberOfInstances = 0;
+
+
+
 
     // empty constructor
     public Utente() {
