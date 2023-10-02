@@ -178,4 +178,24 @@ public class Utente {
     }
 
 
+    /**
+     * method to calculate obesity degree
+     * @return obesity degree
+     */
+    public String calculateObesityDegree() {
+        float imc = calculateImc();
+
+        if (imc < MAGRO) {
+            return "Lean";
+        }
+        else if (imc < SAUDAVEL) {
+            return "Healthy";
+        }
+        else {
+            return "Obese";
+        }
+
+    }
+
+
 }
