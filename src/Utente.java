@@ -169,4 +169,13 @@ public class Utente {
     }
 
 
+    /**
+     * Method to calculate IMC
+     * @return IMC
+     */
+    public float calculateImc() {
+        return peso / (altura * altura);
+    }
+
+
 }
