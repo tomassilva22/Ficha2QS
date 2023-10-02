@@ -197,5 +197,55 @@ public class Utente {
 
     }
 
+    /**
+     * method to calculate the younger user between 2 users
+     * @param user
+     */
+    public void calculateYoungerUser(Utente user) {
+        if (idade < user.getIdade()) {
+            System.out.print(nome+" is the younger");
+        }
+        else if (idade > user.getIdade()){
+            System.out.println(user.getNome()+" is the younger");
+        }
+        else{
+            System.out.println("They are both the same age");
+        }
+    }
+
+
+    /**
+     * method to calculate age gap between two users
+     * @param user
+     * @return age gap
+     */
+    public int calculateAgeGap(Utente user) {
+        return Math.abs(idade - user.getIdade());
+    }
+
+
+    /**
+     * method to check if user is healthy
+     * @return "Healthy" or "Unhealthy"
+     */
+    public String isHealthy() {
+        String obesityDegree = calculateObesityDegree();
+        if (obesityDegree.equals("Healthy")) {
+            return "Healthy";
+        }
+        else {
+            return "Unhealthy";
+        }
+    }
+
+
+    /**
+     * method to get number of instances
+     * @return numberOfInstances
+     */
+    public int getNumberOfInstances() {
+        return numberOfInstances;
+    }
+
 
 }
