@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a9dbe13-ade4-49d8-a9a5-49aa9ff74dad" name="Changes" comment="random" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="wip" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WD68FoSjXWxiuJZgeaox7KrKI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/tomas/OneDrive/Ambiente de Trabalho/Faculdade/QS/Ficha2/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9dbe13-ade4-49d8-a9a5-49aa9ff74dad" name="Changes" comment="" />
+      <created>1696254645038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696254645038</updated>
+      <workItem from="1696254645999" duration="3705000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created Class &quot;Utente&quot; with constructors.">
+      <option name="closed" value="true" />
+      <created>1696255057762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696255057762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added getters and setters to Class &quot;Utente&quot;">
+      <option name="closed" value="true" />
+      <created>1696255192263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696255192263</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added toString method to Class &quot;Utente&quot;">
+      <option name="closed" value="true" />
+      <created>1696255570080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696255570080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added constants for IMC default values and variable for number of created instances">
+      <option name="closed" value="true" />
+      <created>1696256275745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696256275745</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added method &quot;calculateImc&quot; on Class &quot;Utente&quot;">
+      <option name="closed" value="true" />
+      <created>1696256320737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696256320737</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added method &quot;calculateObesityDegree&quot; on Class &quot;Utente&quot;">
+      <option name="closed" value="true" />
+      <created>1696256441229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696256441229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added methods &quot;calculateYoungerUser&quot;, &quot;calculateAgeGap&quot;, &quot;isHealthy&quot;, &quot;getNumberOfInstances&quot;">
+      <option name="closed" value="true" />
+      <created>1696256816342</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696256816342</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created Class &quot;Main&quot;. This Class uses the methods created on Class &quot;Utente&quot; to print the results">
+      <option name="closed" value="true" />
+      <created>1696257022341</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696257022341</updated>
+    </task>
+    <task id="LOCAL-00009" summary="random">
+      <option name="closed" value="true" />
+      <created>1696258006949</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696258006949</updated>
+    </task>
+    <task id="LOCAL-00010" summary="random">
+      <option name="closed" value="true" />
+      <created>1696258079922</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696258079922</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="wip" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Class &quot;Utente&quot; with constructors." />
+    <MESSAGE value="Added getters and setters to Class &quot;Utente&quot;" />
+    <MESSAGE value="Added toString method to Class &quot;Utente&quot;" />
+    <MESSAGE value="Added constants for IMC default values and variable for number of created instances" />
+    <MESSAGE value="Added method &quot;calculateImc&quot; on Class &quot;Utente&quot;" />
+    <MESSAGE value="Added method &quot;calculateObesityDegree&quot; on Class &quot;Utente&quot;" />
+    <MESSAGE value="Added methods &quot;calculateYoungerUser&quot;, &quot;calculateAgeGap&quot;, &quot;isHealthy&quot;, &quot;getNumberOfInstances&quot;" />
+    <MESSAGE value="Created Class &quot;Main&quot;. This Class uses the methods created on Class &quot;Utente&quot; to print the results" />
+    <MESSAGE value="random" />
+    <option name="LAST_COMMIT_MESSAGE" value="random" />
+  </component>
+</project>
