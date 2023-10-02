@@ -144,4 +144,21 @@ public class Utente {
         this.peso = peso;
     }
 
+    // toString method
+    /**
+     *
+     * @return toString
+     */
+    @Override
+    public String toString() {
+        return "Utente{" +
+                "nome='" + nome + '\'' +
+                ", genero='" + genero + '\'' +
+                ", idade=" + idade +
+                ", altura=" + altura +
+                ", peso=" + peso +
+                '}';
+    }
+
+
 }
